@@ -1,0 +1,101 @@
+Race_ID,Horse_Name,Jockey,Track,Race_Type,Finish_Position,Race_Time_Seconds,Odds,Age,Weight_lbs
+R20260101-001,Desert Wind,K. Wilson,Del Mar,Stakes,2,109.57,21.7,5,123
+R20250219-002,Lightning Bolt,K. Wilson,Del Mar,Maiden,10,112.29,9.2,4,125
+R20250704-003,Blue Lightning,T. Davis,Belmont Park,Maiden,3,103.1,25.8,5,124
+R20250705-004,Thunder Strike,T. Davis,Churchill Downs,Claiming,8,107.87,10.9,5,119
+R20250414-005,Ocean Spray,S. Brown,Saratoga,Claiming,1,110.97,35.9,7,115
+R20251203-006,Silver Shadow,C. Anderson,Gulfstream Park,Stakes,2,108.51,44.6,8,121
+R20250602-007,Storm Chaser,E. White,Saratoga,Handicap,2,113.28,1.8,4,123
+R20250615-008,Dark Horse,J. Smith,Santa Anita,Claiming,2,104.74,9.3,3,126
+R20250830-009,Lucky Charm,C. Anderson,Saratoga,Claiming,1,104.87,12.1,3,130
+R20250325-010,Blue Lightning,T. Davis,Belmont Park,Claiming,10,115.59,38.8,8,126
+R20250320-011,Fire Spirit,G. Clark,Saratoga,Handicap,5,119.36,38.4,2,119
+R20250127-012,Star Dancer,E. White,Gulfstream Park,Stakes,1,122.5,16.5,5,127
+R20250224-013,Blue Lightning,M. Johnson,Del Mar,Handicap,9,113.51,34.7,8,124
+R20250206-014,Desert Wind,R. Williams,Fair Grounds,Allowance,7,111.43,35.9,2,129
+R20251016-015,Golden Arrow,M. Johnson,Saratoga,Maiden,1,124.07,33.1,2,115
+R20250201-016,Lightning Bolt,E. White,Santa Anita,Handicap,10,116.58,42.3,7,117
+R20251123-017,Red Baron,J. Smith,Santa Anita,Handicap,5,123.96,3.3,6,129
+R20250811-018,Wild Heart,R. Williams,Gulfstream Park,Maiden,9,109.98,25.4,2,121
+R20251213-019,Desert Wind,T. Davis,Fair Grounds,Claiming,10,109.0,43.8,8,120
+R20251215-020,Storm Chaser,D. Taylor,Belmont Park,Stakes,9,102.17,21.9,6,126
+R20250124-021,Lightning Bolt,A. Thomas,Fair Grounds,Claiming,12,125.0,8.4,5,120
+R20250221-022,Lightning Bolt,S. Brown,Keeneland,Claiming,12,95.51,35.2,6,124
+R20250103-023,Wild Heart,B. Jackson,Belmont Park,Allowance,11,112.47,5.5,7,117
+R20250226-024,Fire Spirit,A. Thomas,Belmont Park,Handicap,9,104.19,19.8,5,118
+R20250323-025,Desert Wind,C. Anderson,Keeneland,Handicap,12,117.13,36.7,8,116
+R20251227-026,Snow Runner,N. Harris,Santa Anita,Stakes,1,117.09,32.7,7,124
+R20250913-027,Fire Spirit,D. Taylor,Del Mar,Maiden,4,98.54,11.7,6,116
+R20250210-028,Ocean Spray,S. Brown,Gulfstream Park,Handicap,9,118.6,9.1,4,125
+R20250403-029,Swift Arrow,R. Williams,Santa Anita,Maiden,2,103.32,47.0,3,129
+R20250327-030,Storm Chaser,G. Clark,Fair Grounds,Claiming,1,120.46,37.8,8,122
+R20250516-031,Brave Knight,L. Martinez,Keeneland,Claiming,10,101.39,7.5,6,130
+R20250621-032,Thunder Strike,J. Smith,Fair Grounds,Claiming,10,122.37,29.3,6,126
+R20250418-033,Dark Horse,L. Martinez,Belmont Park,Maiden,2,98.72,12.1,3,127
+R20250629-034,Thunder Strike,D. Taylor,Keeneland,Stakes,3,110.55,48.2,8,123
+R20250204-035,Blue Lightning,R. Williams,Fair Grounds,Claiming,12,112.49,30.1,3,115
+R20250217-036,Lucky Charm,K. Wilson,Gulfstream Park,Claiming,4,113.35,47.0,6,129
+R20250106-037,Swift Arrow,S. Brown,Santa Anita,Stakes,4,110.62,41.3,4,122
+R20250711-038,Thunder Strike,N. Harris,Santa Anita,Allowance,11,120.13,29.7,2,117
+R20250613-039,Silver Shadow,D. Taylor,Keeneland,Stakes,4,123.48,24.7,6,129
+R20251011-040,Desert Wind,R. Williams,Gulfstream Park,Stakes,5,107.08,17.6,7,119
+R20251226-041,Mountain King,J. Smith,Fair Grounds,Maiden,5,114.39,32.2,7,122
+R20250810-042,Lightning Bolt,E. White,Santa Anita,Allowance,6,118.95,47.9,6,117
+R20250717-043,Desert Wind,M. Johnson,Fair Grounds,Handicap,9,98.39,3.6,3,116
+R20250915-044,Swift Arrow,D. Taylor,Santa Anita,Maiden,12,109.93,9.4,7,126
+R20250705-045,Royal Pride,J. Smith,Gulfstream Park,Allowance,6,106.65,1.7,3,124
+R20250726-046,Dark Horse,A. Thomas,Gulfstream Park,Claiming,9,100.43,8.0,5,121
+R20250906-047,Desert Wind,M. Johnson,Fair Grounds,Claiming,11,103.35,22.9,8,130
+R20251026-048,Mountain King,G. Clark,Belmont Park,Maiden,7,119.65,9.1,5,122
+R20250527-049,Storm Chaser,M. Johnson,Fair Grounds,Handicap,4,101.91,2.7,7,119
+R20250127-050,Storm Chaser,B. Jackson,Santa Anita,Allowance,7,113.03,2.6,4,122
+R20251110-051,Wild Heart,E. White,Belmont Park,Claiming,1,102.81,4.9,8,126
+R20250625-052,Lucky Charm,E. White,Del Mar,Stakes,10,97.66,48.1,6,128
+R20250509-053,Star Dancer,G. Clark,Saratoga,Stakes,9,100.2,49.0,3,126
+R20251103-054,Swift Arrow,G. Clark,Santa Anita,Maiden,12,100.57,6.4,5,122
+R20250218-055,Lightning Bolt,R. Williams,Del Mar,Maiden,6,116.66,26.6,3,117
+R20250822-056,Midnight Express,G. Clark,Keeneland,Handicap,8,95.98,21.9,4,124
+R20250216-057,Star Dancer,A. Thomas,Keeneland,Handicap,8,100.97,5.5,7,124
+R20251219-058,Swift Arrow,B. Jackson,Churchill Downs,Handicap,12,110.06,20.1,4,130
+R20250626-059,Red Baron,A. Thomas,Fair Grounds,Maiden,10,97.46,10.8,7,120
+R20250518-060,Mountain King,G. Clark,Santa Anita,Stakes,12,112.6,13.0,6,130
+R20250623-061,Mountain King,D. Taylor,Belmont Park,Maiden,4,118.35,49.9,2,122
+R20250927-062,Mountain King,C. Anderson,Santa Anita,Stakes,12,106.78,31.1,8,118
+R20251108-063,Golden Arrow,R. Williams,Fair Grounds,Allowance,5,120.4,25.1,2,122
+R20250416-064,Midnight Express,L. Martinez,Fair Grounds,Handicap,6,116.67,47.2,2,123
+R20250221-065,Desert Wind,C. Anderson,Saratoga,Handicap,3,113.55,18.1,3,120
+R20250404-066,Swift Arrow,G. Clark,Belmont Park,Stakes,1,108.66,38.1,8,123
+R20250226-067,Fire Spirit,T. Davis,Saratoga,Maiden,6,104.16,8.0,6,124
+R20250402-068,Ocean Spray,D. Taylor,Belmont Park,Allowance,8,110.44,39.8,5,120
+R20250926-069,Fire Spirit,R. Williams,Keeneland,Allowance,5,99.9,25.5,5,117
+R20251104-070,Blue Lightning,A. Thomas,Keeneland,Claiming,11,97.45,14.1,3,117
+R20250628-071,Wild Heart,N. Harris,Santa Anita,Handicap,2,122.56,17.2,3,124
+R20251013-072,Swift Arrow,N. Harris,Belmont Park,Allowance,3,95.68,18.2,5,123
+R20250629-073,Red Baron,T. Davis,Belmont Park,Stakes,12,95.55,15.7,5,116
+R20251006-074,Ocean Spray,R. Williams,Fair Grounds,Stakes,3,110.75,18.1,4,119
+R20251016-075,Snow Runner,G. Clark,Keeneland,Handicap,10,100.86,21.6,5,123
+R20251025-076,Mountain King,M. Johnson,Fair Grounds,Allowance,4,121.9,44.8,3,126
+R20250510-077,Lightning Bolt,T. Davis,Churchill Downs,Handicap,7,100.0,26.1,3,128
+R20251119-078,Desert Wind,T. Davis,Gulfstream Park,Claiming,9,98.2,7.1,6,123
+R20250710-079,Desert Wind,K. Wilson,Belmont Park,Allowance,5,122.65,5.0,4,117
+R20250730-080,Brave Knight,C. Anderson,Del Mar,Stakes,10,103.49,16.5,4,124
+R20250102-081,Blue Lightning,B. Jackson,Saratoga,Stakes,6,121.72,21.8,2,115
+R20250811-082,Blue Lightning,P. Moore,Fair Grounds,Claiming,3,112.54,25.0,5,126
+R20250107-083,Midnight Express,M. Johnson,Fair Grounds,Stakes,1,113.77,19.0,3,121
+R20251122-084,Midnight Express,G. Clark,Belmont Park,Claiming,2,113.42,48.2,6,119
+R20251030-085,Swift Arrow,L. Martinez,Fair Grounds,Stakes,12,122.0,24.6,6,123
+R20250518-086,Blue Lightning,L. Martinez,Fair Grounds,Handicap,3,120.8,25.8,3,125
+R20250727-087,Desert Wind,K. Wilson,Del Mar,Handicap,2,124.89,5.6,2,122
+R20250306-088,Brave Knight,K. Wilson,Fair Grounds,Allowance,11,124.17,12.7,5,124
+R20250504-089,Red Baron,G. Clark,Del Mar,Stakes,11,112.38,31.3,7,128
+R20251215-090,Fire Spirit,A. Thomas,Keeneland,Claiming,3,115.33,39.4,4,115
+R20250803-091,Storm Chaser,G. Clark,Fair Grounds,Maiden,10,116.81,6.7,6,126
+R20250210-092,Thunder Strike,T. Davis,Gulfstream Park,Maiden,11,106.25,13.4,6,130
+R20250912-093,Dark Horse,M. Johnson,Fair Grounds,Stakes,2,110.6,7.0,8,120
+R20251229-094,Swift Arrow,A. Thomas,Del Mar,Maiden,5,106.66,19.7,2,115
+R20250916-095,Golden Arrow,R. Williams,Saratoga,Handicap,3,95.64,19.4,7,125
+R20250801-096,Lightning Bolt,B. Jackson,Saratoga,Handicap,12,104.35,11.6,6,129
+R20250321-097,Thunder Strike,S. Brown,Del Mar,Allowance,2,117.01,45.9,3,122
+R20250126-098,Thunder Strike,E. White,Belmont Park,Claiming,3,102.76,44.7,4,126
+R20250614-099,Mountain King,P. Moore,Saratoga,Allowance,12,116.68,31.1,5,127
+R20251209-100,Wild Heart,N. Harris,Belmont Park,Stakes,1,103.37,17.0,7,118
